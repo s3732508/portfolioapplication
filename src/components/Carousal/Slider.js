@@ -320,15 +320,15 @@ const Slider = () => {
                 </div>
             </div>
         </FadyDiv>
-        <FadyDiv class="container" style={{ margin: '0px 0px',  maxWidth: '100%' }}>
+        <FadyDiv class="container" style={{ margin: '30px 0px',  maxWidth: '100%' }}>
             <div class='row' >
-                <div class='col-sm-11 col-lg-11 col-xl-11' style={{ margin: '0px 30px' }}>
+                <div class='col-sm-11 col-lg-11 col-xl-11' style={{ margin: '10px 30px' }}>
                     We have developed an application named MONITO which takes usage data of users through AWS CloudMetrics and allows the admins to monitor the usage. It can visualize the usage data of AWS EC2 instances and AWS Lambdas. It can be further improved to provide suggestions based on the data. Architecture includes mostly AWS services. Authentication of users is done using AWS Cognito and routing through API Gateway. Lambdas were written using python and Node.js to read and filter data from Database. During the whole project, Continuous Deployment was established using AWS CodePipeline as part of the process. My contribution includes working on Front-end and establishing AWS Cognito User Pool and Continuous Deployment. 
                          </div>
-                <Button class='col-sm-11 col-lg-11 col-xl-11' style={{ margin: 'auto', display: 'flex' }} onClick={(e) => {
+                <Button class='col-sm-11 col-lg-11 col-xl-11' style={{ textAlign: 'center', margin: 'auto', display: 'flex' }} onClick={(e) => {
                     e.preventDefault();
                     window.location.href = buttonlinks[4];
-                }} >Visit MONITO
+                }} ><p style={{width: '100%', fontSize: '110%'}}>Visit MONITO</p>
                 </Button>
             </div>
         </FadyDiv>
