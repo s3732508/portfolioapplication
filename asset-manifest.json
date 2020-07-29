@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/s3732508.github.io/static/css/main.b8c14270.chunk.css",
+    "main.js": "/s3732508.github.io/static/js/main.bb59e47a.chunk.js",
+    "main.js.map": "/s3732508.github.io/static/js/main.bb59e47a.chunk.js.map",
+    "runtime-main.js": "/s3732508.github.io/static/js/runtime-main.1726ba30.js",
+    "runtime-main.js.map": "/s3732508.github.io/static/js/runtime-main.1726ba30.js.map",
+    "static/js/2.f550a38f.chunk.js": "/s3732508.github.io/static/js/2.f550a38f.chunk.js",
+    "static/js/2.f550a38f.chunk.js.map": "/s3732508.github.io/static/js/2.f550a38f.chunk.js.map",
+    "index.html": "/s3732508.github.io/index.html",
+    "precache-manifest.d25516ef0e41355044c709a631221536.js": "/s3732508.github.io/precache-manifest.d25516ef0e41355044c709a631221536.js",
+    "service-worker.js": "/s3732508.github.io/service-worker.js",
+    "static/css/main.b8c14270.chunk.css.map": "/s3732508.github.io/static/css/main.b8c14270.chunk.css.map",
+    "static/js/2.f550a38f.chunk.js.LICENSE.txt": "/s3732508.github.io/static/js/2.f550a38f.chunk.js.LICENSE.txt",
+    "static/media/Profile.jpg": "/s3732508.github.io/static/media/Profile.dc88d683.jpg",
+    "static/media/keyboard.jpg": "/s3732508.github.io/static/media/keyboard.dbe09664.jpg",
+    "static/media/opentowork.jpg": "/s3732508.github.io/static/media/opentowork.2590db3a.jpg",
+    "static/media/sidebarimage.jpg": "/s3732508.github.io/static/media/sidebarimage.01cf12fb.jpg",
+    "static/media/study.jpg": "/s3732508.github.io/static/media/study.8acfa637.jpg",
+    "static/media/worktable.jpg": "/s3732508.github.io/static/media/worktable.a1536a2f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1726ba30.js",
+    "static/js/2.f550a38f.chunk.js",
+    "static/css/main.b8c14270.chunk.css",
+    "static/js/main.bb59e47a.chunk.js"
+  ]
+}
