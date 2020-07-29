@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b8c14270.chunk.css",
-    "main.js": "/portfolio/static/js/main.36973639.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.36973639.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.b449097c.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b449097c.js.map",
-    "static/js/2.ea1c2ab2.chunk.js": "/portfolio/static/js/2.ea1c2ab2.chunk.js",
-    "static/js/2.ea1c2ab2.chunk.js.map": "/portfolio/static/js/2.ea1c2ab2.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.842a8b261fef05c09d5d9d31b83691f4.js": "/portfolio/precache-manifest.842a8b261fef05c09d5d9d31b83691f4.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.b8c14270.chunk.css.map": "/portfolio/static/css/main.b8c14270.chunk.css.map",
-    "static/js/2.ea1c2ab2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ea1c2ab2.chunk.js.LICENSE.txt",
-    "static/media/Profile.jpg": "/portfolio/static/media/Profile.dc88d683.jpg",
-    "static/media/keyboard.jpg": "/portfolio/static/media/keyboard.dbe09664.jpg",
-    "static/media/opentowork.jpg": "/portfolio/static/media/opentowork.2590db3a.jpg",
-    "static/media/sidebarimage.jpg": "/portfolio/static/media/sidebarimage.01cf12fb.jpg",
-    "static/media/study.jpg": "/portfolio/static/media/study.8acfa637.jpg",
-    "static/media/worktable.jpg": "/portfolio/static/media/worktable.a1536a2f.jpg"
+    "main.css": "/s3732508.github.io/static/css/main.ec0fa22d.chunk.css",
+    "main.js": "/s3732508.github.io/static/js/main.bb59e47a.chunk.js",
+    "main.js.map": "/s3732508.github.io/static/js/main.bb59e47a.chunk.js.map",
+    "runtime-main.js": "/s3732508.github.io/static/js/runtime-main.1726ba30.js",
+    "runtime-main.js.map": "/s3732508.github.io/static/js/runtime-main.1726ba30.js.map",
+    "static/js/2.f550a38f.chunk.js": "/s3732508.github.io/static/js/2.f550a38f.chunk.js",
+    "static/js/2.f550a38f.chunk.js.map": "/s3732508.github.io/static/js/2.f550a38f.chunk.js.map",
+    "index.html": "/s3732508.github.io/index.html",
+    "precache-manifest.21e3e182b935312220c259e26665ccc7.js": "/s3732508.github.io/precache-manifest.21e3e182b935312220c259e26665ccc7.js",
+    "service-worker.js": "/s3732508.github.io/service-worker.js",
+    "static/css/main.ec0fa22d.chunk.css.map": "/s3732508.github.io/static/css/main.ec0fa22d.chunk.css.map",
+    "static/js/2.f550a38f.chunk.js.LICENSE.txt": "/s3732508.github.io/static/js/2.f550a38f.chunk.js.LICENSE.txt",
+    "static/media/Profile.jpg": "/s3732508.github.io/static/media/Profile.dc88d683.jpg",
+    "static/media/keyboard.jpg": "/s3732508.github.io/static/media/keyboard.dbe09664.jpg",
+    "static/media/opentowork.jpg": "/s3732508.github.io/static/media/opentowork.2590db3a.jpg",
+    "static/media/sidebarimage.jpg": "/s3732508.github.io/static/media/sidebarimage.01cf12fb.jpg",
+    "static/media/study.jpg": "/s3732508.github.io/static/media/study.8acfa637.jpg",
+    "static/media/worktable.jpg": "/s3732508.github.io/static/media/worktable.a1536a2f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b449097c.js",
-    "static/js/2.ea1c2ab2.chunk.js",
-    "static/css/main.b8c14270.chunk.css",
-    "static/js/main.36973639.chunk.js"
+    "static/js/runtime-main.1726ba30.js",
+    "static/js/2.f550a38f.chunk.js",
+    "static/css/main.ec0fa22d.chunk.css",
+    "static/js/main.bb59e47a.chunk.js"
   ]
 }
